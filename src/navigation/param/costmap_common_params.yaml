@@ -1,0 +1,8 @@
+# 全局地图的通用参数设置
+global_frame: map
+robot_base_frame: base_link
+
+# 在激光雷达坐标系下的机器人的形状，所有点连在一起构成一个闭合的多边形表示机器人的形状
+footprint:  [[0.34, 0.16], [-0.43, 0.16], [-0.43, -0.16], [0.34, -0.16]]
+
+footprint_padding: 0.0

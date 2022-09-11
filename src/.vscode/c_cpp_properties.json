@@ -1,0 +1,52 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/zhx/unitree_sim/devel/include/**",
+        "/home/zhx/nav_ws/devel/include/**",
+        "/home/zhx/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/zhx/nav_ws/src/navigation-melodic-devel/amcl/include/**",
+        "/home/zhx/nav_ws/src/navigation-melodic-devel/base_local_planner/include/**",
+        "/home/zhx/nav_ws/src/navigation-melodic-devel/carrot_planner/include/**",
+        "/home/zhx/nav_ws/src/navigation-melodic-devel/clear_costmap_recovery/include/**",
+        "/home/zhx/nav_ws/src/navigation-melodic-devel/costmap_2d/include/**",
+        "/home/zhx/nav_ws/src/navigation-melodic-devel/create_new_layers/include/**",
+        "/home/zhx/nav_ws/src/navigation-melodic-devel/dwa_local_planner/include/**",
+        "/home/zhx/catkin_ws/src/eigen_checks/include/**",
+        "/home/zhx/nav_ws/src/navigation-melodic-devel/global_planner/include/**",
+        "/home/zhx/unitree_sim/src/LIO-SAM/include/**",
+        "/home/zhx/nav_ws/src/navigation-melodic-devel/map_server/include/**",
+        "/home/zhx/catkin_ws/src/minkindr/minkindr/include/**",
+        "/home/zhx/catkin_ws/src/minkindr_ros/minkindr_conversions/include/**",
+        "/home/zhx/nav_ws/src/navigation-melodic-devel/move_base/include/**",
+        "/home/zhx/nav_ws/src/navigation-melodic-devel/move_slow_and_clear/include/**",
+        "/home/zhx/nav_ws/src/navigation-melodic-devel/nav_core/include/**",
+        "/home/zhx/nav_ws/src/navigation-melodic-devel/navfn/include/**",
+        "/home/zhx/unitree_sim/src/ndt_localizer/include/**",
+        "/home/zhx/unitree_sim/src/pointcloud_to_laserscan/include/**",
+        "/home/zhx/unitree_sim/src/unitree_ros/robots/realsense_ros_gazebo/include/**",
+        "/home/zhx/nav_ws/src/navigation-melodic-devel/rotate_recovery/include/**",
+        "/home/zhx/unitree_sim/src/simple_navigation_goals/include/**",
+        "/home/zhx/nav_ws/src/test_planner/include/**",
+        "/home/zhx/nav_ws/src/turtlebot3_simulations-master/turtlebot3_fake/include/**",
+        "/home/zhx/nav_ws/src/turtlebot3_simulations-master/turtlebot3_gazebo/include/**",
+        "/home/zhx/nav_ws/src/turtlebot3-master/turtlebot3_slam/include/**",
+        "/home/zhx/unitree_sim/src/unitree_ros/unitree_controller/include/**",
+        "/home/zhx/unitree_sim/src/unitree_guide/include/**",
+        "/home/zhx/unitree_sim/src/unitree_ros/unitree_legged_control/include/**",
+        "/home/zhx/catkin_ws/src/voxblox/voxblox/include/**",
+        "/home/zhx/catkin_ws/src/voxblox/voxblox_ros/include/**",
+        "/home/zhx/catkin_ws/src/voxblox/voxblox_rviz_plugin/include/**",
+        "/home/zhx/nav_ws/src/navigation-melodic-devel/voxel_grid/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
